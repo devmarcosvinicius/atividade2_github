@@ -1,0 +1,31 @@
+1. Soma de dois numeros
+obter o primeiro numero a ser somado.
+obter o segundo numero a ser somado.
+realizar a soma dos dois numeros obtidos.
+mostrar o resultado da soma.
+
+2. Letra ou numero
+Obter o caracter desejado para o teste.
+Verificar se o caracter estar dentro do alfabeto, 
+se sim mostrar que é uma letra.
+Caso não esteja, mostrar que é um numero.
+
+3. Troca de lâmpada
+Verificar se a lampada estar queimada
+Se sim, obter uma nova lampada.
+Retirar a lampada queimada do bocal.
+Instalar a nova lampada no bocal.
+Caso não esteja queimada, não faça nada.
+
+4. Rotina de Domingo
+Acordar
+Escovar os dentes
+Preparar o café da manha
+Tomar o café da manha
+Estudar
+Preparar o almoço
+Almoçar
+Tomar banho
+Sair com os amigos
+Voltar para casa
+Sair
