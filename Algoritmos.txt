@@ -1,31 +1,30 @@
 1. Soma de dois numeros
-obter o primeiro numero a ser somado.
-obter o segundo numero a ser somado.
-realizar a soma dos dois numeros obtidos.
-mostrar o resultado da soma.
+Passo 1: Obtenha o valor do primeiro número.
+Passo 2: Obtenha o valor do segundo número.
+Passo 3: Some os dois números.
+Passo 4: Mostre o resultado da dos dois números lidos.
 
 2. Letra ou numero
-Obter o caracter desejado para o teste.
-Verificar se o caracter estar dentro do alfabeto, 
-se sim mostrar que é uma letra.
-Caso não esteja, mostrar que é um numero.
+Passo 1: Obtenha o caractere a ser verificado.
+Passo 2: Verifique se o caractere está no alfabeto.
+Passo 3: Se estiver, mostre que é uma letra, caso ao contrario, mostre que é um numero.
 
 3. Troca de lâmpada
-Verificar se a lampada estar queimada
-Se sim, obter uma nova lampada.
-Retirar a lampada queimada do bocal.
-Instalar a nova lampada no bocal.
-Caso não esteja queimada, não faça nada.
+Passo 1: Verificar se a lâmpada está queimada.
+Passo 2: Desligar a energia.
+Passo 3: Verificar o tipo de lâmpada.
+Passo 4: Escolher uma lâmpada nova.
+Passo 5: Acessar a lâmpada antiga.
+Passo 6: Remover a lâmpada antiga.
+Passo 7: Instalar a lâmpada nova.
+Passo 8: Ligar a energia.
+Passo 9: Testar a lâmpada nova.
+Passo 10: Descartar a lâmpada antiga de forma adequada.
 
-4. Rotina de Domingo
-Acordar
-Escovar os dentes
-Preparar o café da manha
-Tomar o café da manha
-Estudar
-Preparar o almoço
-Almoçar
-Tomar banho
-Sair com os amigos
-Voltar para casa
-Sair
+4. Instrução para fazer um café sem açucar.
+Passo 1: Separe os ingredientes: café em pó (ou café em sachê), água.
+Passo 2: Ferva a água.
+Passo 3: Prepare o filtro (se estiver usando café em pó).
+Passo 4: Adicione o café.
+Passo 5: Faça a infusão.
+Passo 7: Sirva e aproveite.
